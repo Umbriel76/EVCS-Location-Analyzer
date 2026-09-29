@@ -1,0 +1,62 @@
+{
+  "hash": "a928e624",
+  "configHash": "efc01fd2",
+  "lockfileHash": "370150f4",
+  "browserHash": "a311653d",
+  "optimized": {
+    "canvas-confetti": {
+      "src": "../../canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "3d1db79a",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "582573c0",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "5feec6e8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9cd5122c",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "66d4b233",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "28adab9a",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "990d2c5a",
+      "needsInterop": true
+    },
+    "xlsx": {
+      "src": "../../xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "3d38c1aa",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "rolldown-runtime-EAsCxrDo": {
+      "file": "rolldown-runtime-EAsCxrDo.js",
+      "isDynamicEntry": false
+    }
+  }
+}
